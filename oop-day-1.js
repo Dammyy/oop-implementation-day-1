@@ -52,7 +52,7 @@ class Club extends Footballer {
 let player3 = new Club("C.Ronaldo","Real Madrid");
 player3.play();
   
-  // Encapsulation : Data hiding inside the constructor making it only accessible by its own methods
+  // Encapsulation: Data hiding inside the constructor making it only accessible by its own methods
   
   class Goals {
     constructor(goals, number) {
